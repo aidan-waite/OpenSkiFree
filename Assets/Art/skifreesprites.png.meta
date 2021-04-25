@@ -1,0 +1,2820 @@
+fileFormatVersion: 2
+guid: 62ccecce27cc048499265331c28d67dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8115863105638208739
+    second: skifreesprites_0
+  - first:
+      213: 6710458459101267881
+    second: skifreesprites_1
+  - first:
+      213: 5907021237547709747
+    second: skifreesprites_2
+  - first:
+      213: 8966140940516709299
+    second: skifreesprites_3
+  - first:
+      213: 5451384372544884834
+    second: skifreesprites_4
+  - first:
+      213: -3243358300612493929
+    second: skifreesprites_5
+  - first:
+      213: 4561215368377926430
+    second: skifreesprites_6
+  - first:
+      213: 2475950031920085506
+    second: skifreesprites_7
+  - first:
+      213: -5079712649332915300
+    second: skifreesprites_8
+  - first:
+      213: 5627810809072174489
+    second: skifreesprites_9
+  - first:
+      213: 6362013433717716437
+    second: skifreesprites_10
+  - first:
+      213: -3142401803837244117
+    second: skifreesprites_11
+  - first:
+      213: 5443175805786119488
+    second: skifreesprites_12
+  - first:
+      213: 3390439660225787578
+    second: skifreesprites_13
+  - first:
+      213: 1543011310409227010
+    second: skifreesprites_14
+  - first:
+      213: -2305783685800776693
+    second: skifreesprites_15
+  - first:
+      213: 7499035172590116595
+    second: skifreesprites_16
+  - first:
+      213: -7028139110860305905
+    second: skifreesprites_17
+  - first:
+      213: 5680774937523153442
+    second: skifreesprites_18
+  - first:
+      213: -4624015832908076865
+    second: skifreesprites_19
+  - first:
+      213: 7425540087362887891
+    second: skifreesprites_20
+  - first:
+      213: -6252117565014561257
+    second: skifreesprites_21
+  - first:
+      213: -3184865799353703074
+    second: skifreesprites_22
+  - first:
+      213: 8510444769988145784
+    second: skifreesprites_23
+  - first:
+      213: -2393600645209811439
+    second: skifreesprites_24
+  - first:
+      213: -897946637214116184
+    second: skifreesprites_25
+  - first:
+      213: -1212190652361302787
+    second: skifreesprites_26
+  - first:
+      213: -5809531091789606947
+    second: skifreesprites_27
+  - first:
+      213: -6368937062668786815
+    second: skifreesprites_28
+  - first:
+      213: 961227934485484671
+    second: skifreesprites_29
+  - first:
+      213: -4534474970398073016
+    second: skifreesprites_30
+  - first:
+      213: 6301631582661996686
+    second: skifreesprites_31
+  - first:
+      213: -7766790245789471191
+    second: skifreesprites_32
+  - first:
+      213: -7961772074109072467
+    second: skifreesprites_33
+  - first:
+      213: 7197217922649011649
+    second: skifreesprites_34
+  - first:
+      213: 3836063940372758377
+    second: skifreesprites_35
+  - first:
+      213: -2633638678662783236
+    second: skifreesprites_36
+  - first:
+      213: -1872755189524699606
+    second: skifreesprites_37
+  - first:
+      213: -5878780140659575097
+    second: skifreesprites_38
+  - first:
+      213: 8605033771171671820
+    second: skifreesprites_39
+  - first:
+      213: 7989104481560257130
+    second: skifreesprites_40
+  - first:
+      213: 5882550410540052205
+    second: skifreesprites_41
+  - first:
+      213: 1465235887022040093
+    second: skifreesprites_42
+  - first:
+      213: 6389538544163794375
+    second: skifreesprites_43
+  - first:
+      213: -5728812323972418126
+    second: skifreesprites_44
+  - first:
+      213: -6377483996005674449
+    second: skifreesprites_45
+  - first:
+      213: -1516260669799119656
+    second: skifreesprites_46
+  - first:
+      213: -7390511347746463298
+    second: skifreesprites_47
+  - first:
+      213: 2951223854345604381
+    second: skifreesprites_48
+  - first:
+      213: -6592896272581000744
+    second: skifreesprites_49
+  - first:
+      213: 6029825373334675964
+    second: skifreesprites_50
+  - first:
+      213: 4207594272266475595
+    second: skifreesprites_51
+  - first:
+      213: -6879297831362865551
+    second: skifreesprites_52
+  - first:
+      213: -7445369547182317825
+    second: skifreesprites_53
+  - first:
+      213: 3650901483027420156
+    second: skifreesprites_54
+  - first:
+      213: -3298757149379873886
+    second: skifreesprites_55
+  - first:
+      213: 9161289829078807652
+    second: skifreesprites_56
+  - first:
+      213: 4656040313322703411
+    second: skifreesprites_57
+  - first:
+      213: 8233214940102174495
+    second: skifreesprites_58
+  - first:
+      213: -642367343209154264
+    second: skifreesprites_59
+  - first:
+      213: 7203911018175124407
+    second: skifreesprites_60
+  - first:
+      213: -3456501913763579986
+    second: skifreesprites_61
+  - first:
+      213: -1273721267022801042
+    second: skifreesprites_62
+  - first:
+      213: 3352540278303796406
+    second: skifreesprites_63
+  - first:
+      213: 2234658755209680690
+    second: skifreesprites_64
+  - first:
+      213: 3218092360903556628
+    second: skifreesprites_65
+  - first:
+      213: 2954827984466087305
+    second: skifreesprites_66
+  - first:
+      213: -218544027836511496
+    second: skifreesprites_67
+  - first:
+      213: 5072013745163440067
+    second: skifreesprites_68
+  - first:
+      213: 1136076206776726463
+    second: skifreesprites_69
+  - first:
+      213: 6806215767729337695
+    second: skifreesprites_70
+  - first:
+      213: -5302341449289069094
+    second: skifreesprites_71
+  - first:
+      213: 7988645556577648293
+    second: skifreesprites_72
+  - first:
+      213: -7550076153121902317
+    second: skifreesprites_73
+  - first:
+      213: 388265008610403054
+    second: skifreesprites_74
+  - first:
+      213: 7440531585579697993
+    second: skifreesprites_75
+  - first:
+      213: -2443224791711545619
+    second: skifreesprites_76
+  - first:
+      213: 3863984101779123431
+    second: skifreesprites_77
+  - first:
+      213: -8930088867355473591
+    second: skifreesprites_78
+  - first:
+      213: -5020858287958347373
+    second: skifreesprites_79
+  - first:
+      213: -4535362359990744717
+    second: skifreesprites_80
+  - first:
+      213: 3375670817986200916
+    second: skifreesprites_81
+  - first:
+      213: 2639493022899000669
+    second: skifreesprites_82
+  - first:
+      213: -5310158314837142888
+    second: skifreesprites_83
+  - first:
+      213: -7173458500878665806
+    second: skifreesprites_84
+  - first:
+      213: -4850412672086737481
+    second: skifreesprites_85
+  - first:
+      213: 3173360332496493427
+    second: skifreesprites_86
+  - first:
+      213: -1591560025465289850
+    second: skifreesprites_87
+  - first:
+      213: -71387176228034633
+    second: skifreesprites_88
+  - first:
+      213: -643326762024416696
+    second: skifreesprites_89
+  - first:
+      213: -7935860068674663449
+    second: skifreesprites_90
+  - first:
+      213: 5025307229972654242
+    second: skifreesprites_91
+  - first:
+      213: -8727660617557738781
+    second: skifreesprites_92
+  - first:
+      213: 6746541885767360548
+    second: skifreesprites_93
+  - first:
+      213: 1743847162946027873
+    second: skifreesprites_94
+  - first:
+      213: -2678409324401484498
+    second: skifreesprites_95
+  - first:
+      213: 7466139705220660290
+    second: skifreesprites_96
+  - first:
+      213: -3115710333910929619
+    second: skifreesprites_97
+  - first:
+      213: -2386295258616162854
+    second: skifreesprites_98
+  - first:
+      213: 1572947201459017982
+    second: skifreesprites_99
+  - first:
+      213: -2130365408534450826
+    second: skifreesprites_100
+  - first:
+      213: -2642212413817275865
+    second: skifreesprites_101
+  - first:
+      213: 1587702228152125133
+    second: skifreesprites_102
+  - first:
+      213: 2777028033904779952
+    second: skifreesprites_103
+  - first:
+      213: 6145710540797561715
+    second: skifreesprites_104
+  - first:
+      213: -4842423999503008868
+    second: skifreesprites_105
+  - first:
+      213: 5045424709690321080
+    second: skifreesprites_106
+  - first:
+      213: 6555747193350281407
+    second: skifreesprites_107
+  - first:
+      213: 3187850897582512050
+    second: skifreesprites_108
+  - first:
+      213: 3430906951546644534
+    second: skifreesprites_109
+  - first:
+      213: 4998375612115964974
+    second: skifreesprites_110
+  - first:
+      213: -3842773442108522143
+    second: skifreesprites_111
+  - first:
+      213: -5411962331850426730
+    second: skifreesprites_112
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skifreesprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 223
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e49341be7651a070800000000000000
+      internalID: 8115863105638208739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a70fbe3a66502d50800000000000000
+      internalID: 6710458459101267881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 223
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33538b0d484f9f150800000000000000
+      internalID: 5907021237547709747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 223
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d5954ea12e6c70800000000000000
+      internalID: 8966140940516709299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26057a3443537ab40800000000000000
+      internalID: 5451384372544884834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7da44fc64df2d0800000000000000
+      internalID: -3243358300612493929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1308301631bc4f30800000000000000
+      internalID: 4561215368377926430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 223
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab6369f675c5220800000000000000
+      internalID: 2475950031920085506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 223
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930477424c3189b0800000000000000
+      internalID: -5079712649332915300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 200
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995c9d90d100a1e40800000000000000
+      internalID: 5627810809072174489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 223
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5f105b2896a4850800000000000000
+      internalID: 6362013433717716437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 171
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dfbb46532f364d0800000000000000
+      internalID: -3142401803837244117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 223
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd1e16e8b0a8b40800000000000000
+      internalID: 5443175805786119488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 223
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6772c58e24d0f20800000000000000
+      internalID: 3390439660225787578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 223
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1a519c90e96510800000000000000
+      internalID: 1543011310409227010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 223
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c24fe44f53000e0800000000000000
+      internalID: -2305783685800776693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 153
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed46402cce11860800000000000000
+      internalID: 7499035172590116595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 222
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a442127b8077e90800000000000000
+      internalID: -7028139110860305905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 169
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a620825ba26de40800000000000000
+      internalID: 5680774937523153442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 169
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb86bbb591234dfb0800000000000000
+      internalID: -4624015832908076865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 169
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d020b40e51dc0760800000000000000
+      internalID: 7425540087362887891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 169
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ea35323340c39a0800000000000000
+      internalID: -6252117565014561257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 169
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e556b3cfd651dc3d0800000000000000
+      internalID: -3184865799353703074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 169
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87279b39d6c2b1670800000000000000
+      internalID: 8510444769988145784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 169
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1169f1025e838ced0800000000000000
+      internalID: -2393600645209811439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 169
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6989d7a4ad983f0800000000000000
+      internalID: -897946637214116184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 169
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc94fd260f6d2fe0800000000000000
+      internalID: -1212190652361302787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 169
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf0b429046606fa0800000000000000
+      internalID: -5809531091789606947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_28
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 190
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183aece4c7dfc97a0800000000000000
+      internalID: -6368937062668786815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_29
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 190
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74903fa6b7f65d00800000000000000
+      internalID: 961227934485484671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 130
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fd5820a0f4211c0800000000000000
+      internalID: -4534474970398073016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 130
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8073f57984e37750800000000000000
+      internalID: 6301631582661996686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eefb2fb61d63490800000000000000
+      internalID: -7766790245789471191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 135
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab8a1c5b7a128190800000000000000
+      internalID: -7961772074109072467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 135
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5b1927197a1e360800000000000000
+      internalID: 7197217922649011649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 135
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7a9554df6c3530800000000000000
+      internalID: 3836063940372758377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 157
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe539b439f637bd0800000000000000
+      internalID: -2633638678662783236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_37
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 157
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a266c11d313a206e0800000000000000
+      internalID: -1872755189524699606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c67d53fb906a6ea0800000000000000
+      internalID: -5878780140659575097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 119
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f6dea9f983b6770800000000000000
+      internalID: 8605033771171671820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_40
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6261e8a2300fde60800000000000000
+      internalID: 7989104481560257130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 119
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee61996e6403a150800000000000000
+      internalID: 5882550410540052205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_42
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 123
+        width: 92
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146a1ea640955410800000000000000
+      internalID: 1465235887022040093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 93
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdac83e3733ca850800000000000000
+      internalID: 6389538544163794375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b57ebc3b8b2f70b0800000000000000
+      internalID: -5728812323972418126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_45
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 93
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22d7515810ae77a0800000000000000
+      internalID: -6377483996005674449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d44abd44f825fae0800000000000000
+      internalID: -1516260669799119656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 93
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb12419f511af6990800000000000000
+      internalID: -7390511347746463298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 111
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dcde2957ad4f820800000000000000
+      internalID: 2951223854345604381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d100df45c35184a0800000000000000
+      internalID: -6592896272581000744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1204bca3e3ea350800000000000000
+      internalID: 6029825373334675964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_51
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 111
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b485965a2b0646a30800000000000000
+      internalID: 4207594272266475595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17650890213d780a0800000000000000
+      internalID: -6879297831362865551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 89
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffedfa618dbbca890800000000000000
+      internalID: -7445369547182317825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3dbc53e8b9aa230800000000000000
+      internalID: 3650901483027420156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 96
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bee6a9d57832d0800000000000000
+      internalID: -3298757149379873886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 97
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46434aa9f80732f70800000000000000
+      internalID: 9161289829078807652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_57
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 61
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a8f770ff39d9040800000000000000
+      internalID: 4656040313322703411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_58
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 61
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17aa38dd51424270800000000000000
+      internalID: 8233214940102174495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f4b40e4ad517f0800000000000000
+      internalID: -642367343209154264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 73
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3d9df27ee69f360800000000000000
+      internalID: 7203911018175124407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7f9a0a2d90800d0800000000000000
+      internalID: -3456501913763579986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 50
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67de309145d25ee0800000000000000
+      internalID: -1273721267022801042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 78
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcac7fde9d968e20800000000000000
+      internalID: 3352540278303796406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 81
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2375d725c4a130f10800000000000000
+      internalID: 2234658755209680690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_65
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 48
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41efd0ab3f5f8ac20800000000000000
+      internalID: 3218092360903556628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 64
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d0c728568a10920800000000000000
+      internalID: 2954827984466087305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 63
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa85055d5397fcf0800000000000000
+      internalID: -218544027836511496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf8d58e0a9636640800000000000000
+      internalID: 5072013745163440067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_69
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 51
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb333b67a4724cf00800000000000000
+      internalID: 1136076206776726463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_70
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 57
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f557b2c0e29847e50800000000000000
+      internalID: 6806215767729337695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_71
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 41
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add8b4d7b8c4a66b0800000000000000
+      internalID: -5302341449289069094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_72
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 41
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae305cdece5dde60800000000000000
+      internalID: 7988645556577648293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_73
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 41
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3117502adbdb83790800000000000000
+      internalID: -7550076153121902317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_74
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2efecd7f4636500800000000000000
+      internalID: 388265008610403054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_75
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 48
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9474d823e04124760800000000000000
+      internalID: 7440531585579697993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 45
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de60b972ffbe71ed0800000000000000
+      internalID: -2443224791711545619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec2d4c7111af9530800000000000000
+      internalID: 3863984101779123431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_78
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 48
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9494b902d73f11480800000000000000
+      internalID: -8930088867355473591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391baae1df3525ab0800000000000000
+      internalID: -5020858287958347373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_80
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 48
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379031586f72f01c0800000000000000
+      internalID: -4535362359990744717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_81
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 48
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45548b059bac8de20800000000000000
+      internalID: 3375670817986200916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5554017bec51a420800000000000000
+      internalID: 2639493022899000669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8929b07a5278e46b0800000000000000
+      internalID: -5310158314837142888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_84
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 33
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7fe140081c27c90800000000000000
+      internalID: -7173458500878665806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_85
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 33
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd77329f5fdfacb0800000000000000
+      internalID: -4850412672086737481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd4c2c86a0a0c20800000000000000
+      internalID: 3173360332496493427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_87
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830e6bd694a9e9e0800000000000000
+      internalID: -1591560025465289850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_88
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e86fcdb1620ff0800000000000000
+      internalID: -71387176228034633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_89
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a480be7b17217f0800000000000000
+      internalID: -643326762024416696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb807340592ed190800000000000000
+      internalID: -7935860068674663449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_91
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8e8b9ec4a7db540800000000000000
+      internalID: 5025307229972654242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_92
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eafd42d8ee11e680800000000000000
+      internalID: -8727660617557738781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 26
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4202573b91880ad50800000000000000
+      internalID: 6746541885767360548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_94
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16188f161c3633810800000000000000
+      internalID: 1743847162946027873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_95
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d94f709e064dad0800000000000000
+      internalID: -2678409324401484498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cfd1d218e0d9760800000000000000
+      internalID: 7466139705220660290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_97
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fa93485f5c2c4d0800000000000000
+      internalID: -3115710333910929619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_98
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 20
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51cfcfa1d22eed0800000000000000
+      internalID: -2386295258616162854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_99
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8d869552b34d510800000000000000
+      internalID: 1572947201459017982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_100
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 24
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2686b2fb6f62e0800000000000000
+      internalID: -2130365408534450826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_101
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 24
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a3b450fc9f45bd0800000000000000
+      internalID: -2642212413817275865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_102
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 24
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc68a16b3c6a80610800000000000000
+      internalID: 1587702228152125133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_103
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b22234984cf98620800000000000000
+      internalID: 2777028033904779952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_104
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bcc9cec23f94550800000000000000
+      internalID: 6145710540797561715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_105
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 7
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bfbc957014cccb0800000000000000
+      internalID: -4842423999503008868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_106
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e11aaa03f40640800000000000000
+      internalID: 5045424709690321080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_107
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 7
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb858e8a651bafa50800000000000000
+      internalID: 6555747193350281407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_108
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 17
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d05b50858d3c20800000000000000
+      internalID: 3187850897582512050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_109
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 12
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6382b58d1b70d9f20800000000000000
+      internalID: 3430906951546644534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_110
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 7
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d52ef22ccd5540800000000000000
+      internalID: 4998375612115964974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_111
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 5
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16101de0ae9bbaac0800000000000000
+      internalID: -3842773442108522143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skifreesprites_112
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 6
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b248dee8d4e4b0800000000000000
+      internalID: -5411962331850426730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
