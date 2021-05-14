@@ -5,7 +5,14 @@ namespace OpenSkiFree
 
   enum PlayerState
   {
-    FullDown, MostlyDownRight, MostlyDownLeft, MostlySidewaysRight, MostlySidewaysLeft, FullSidewaysRight, FullSidewaysLeft, WipeOut
+    FullDown, // 1
+    MostlyDownRight, // 2
+    MostlyDownLeft, // 3
+    MostlySidewaysRight, // 4
+    MostlySidewaysLeft, // 5
+    FullSidewaysRight, // 6
+    FullSidewaysLeft, // 7
+    WipeOut
   }
 
   public class Player : MonoBehaviour

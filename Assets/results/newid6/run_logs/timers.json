@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1620099512",
+        "python_version": "3.8.5 (default, Jul 21 2020, 10:48:26) \n[Clang 11.0.3 (clang-1103.0.32.62)]",
+        "command_line_arguments": "/usr/local/bin/mlagents-learn config/skifree_config.yaml --run-id=newid6",
+        "mlagents_version": "0.20.0",
+        "mlagents_envs_version": "0.20.0",
+        "communication_protocol_version": "1.1.0",
+        "tensorflow_version": "2.3.2",
+        "numpy_version": "1.18.5",
+        "end_time_seconds": "1620099518"
+    },
+    "total": 6.139008904000001,
+    "count": 1,
+    "self": 0.07468373300000053,
+    "children": {
+        "run_training.setup": {
+            "total": 0.014122105000000218,
+            "count": 1,
+            "self": 0.014122105000000218
+        },
+        "TrainerController.start_learning": {
+            "total": 6.050203066,
+            "count": 1,
+            "self": 0.0003701829999993578,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 6.049790107,
+                    "count": 1,
+                    "self": 6.049790107
+                },
+                "trainer_threads": {
+                    "total": 9.920000003660334e-07,
+                    "count": 1,
+                    "self": 9.920000003660334e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 4.178400000043325e-05,
+                    "count": 1,
+                    "self": 4.178400000043325e-05
+                }
+            }
+        }
+    }
+}

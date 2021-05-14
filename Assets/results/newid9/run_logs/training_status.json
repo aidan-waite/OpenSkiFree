@@ -1,0 +1,23 @@
+{
+    "SkiFreeAgent": {
+        "checkpoints": [
+            {
+                "steps": 4384,
+                "file_path": "results/newid9/SkiFreeAgent/SkiFreeAgent-4384.nn",
+                "reward": null,
+                "creation_time": 1620099715.21445
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4384,
+            "file_path": "results/newid9/SkiFreeAgent.nn",
+            "reward": null,
+            "creation_time": 1620099715.21445
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.3.2"
+    }
+}
