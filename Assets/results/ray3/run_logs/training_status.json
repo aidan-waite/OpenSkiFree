@@ -1,0 +1,23 @@
+{
+    "SkiFreeAgent": {
+        "checkpoints": [
+            {
+                "steps": 100003,
+                "file_path": "results/ray3/SkiFreeAgent/SkiFreeAgent-100003.nn",
+                "reward": 0.23600000381469727,
+                "creation_time": 1621801529.6364522
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100003,
+            "file_path": "results/ray3/SkiFreeAgent.nn",
+            "reward": 0.23600000381469727,
+            "creation_time": 1621801529.6364522
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.3.2"
+    }
+}

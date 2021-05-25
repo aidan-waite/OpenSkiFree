@@ -1,0 +1,47 @@
+{
+    "SkiFreeAgent": {
+        "checkpoints": [
+            {
+                "steps": 3499996,
+                "file_path": "results/agent5000000/SkiFreeAgent/SkiFreeAgent-3499996.nn",
+                "reward": 1.0,
+                "creation_time": 1621234751.596378
+            },
+            {
+                "steps": 3999999,
+                "file_path": "results/agent5000000/SkiFreeAgent/SkiFreeAgent-3999999.nn",
+                "reward": 1.0,
+                "creation_time": 1621235146.116149
+            },
+            {
+                "steps": 4499998,
+                "file_path": "results/agent5000000/SkiFreeAgent/SkiFreeAgent-4499998.nn",
+                "reward": 1.0,
+                "creation_time": 1621235540.7237802
+            },
+            {
+                "steps": 4999995,
+                "file_path": "results/agent5000000/SkiFreeAgent/SkiFreeAgent-4999995.nn",
+                "reward": 0.75,
+                "creation_time": 1621235936.8166778
+            },
+            {
+                "steps": 5000008,
+                "file_path": "results/agent5000000/SkiFreeAgent/SkiFreeAgent-5000008.nn",
+                "reward": 0.7142857142857143,
+                "creation_time": 1621235937.015131
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000008,
+            "file_path": "results/agent5000000/SkiFreeAgent.nn",
+            "reward": 0.7142857142857143,
+            "creation_time": 1621235937.015131
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.20.0",
+        "tensorflow_version": "2.3.2"
+    }
+}

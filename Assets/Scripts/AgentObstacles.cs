@@ -21,7 +21,7 @@ namespace OpenSkiFree
 
     List<PolygonCollider2D> treeColliders = new List<PolygonCollider2D>();
 
-    public void RandomizeTrees()
+    public List<GameObject> SetupTrees()
     {
       if (treeColliders.Count > 0)
       {
@@ -44,13 +44,12 @@ namespace OpenSkiFree
 
       List<ObstacleCandidate> treeCandidates = new List<ObstacleCandidate>();
 
-      int colCount = 5;
-      int rowCount = 5;
+      int colCount = 7;
+      int rowCount = 9;
 
       float rowHeight = (maxTreePos.y - minTreePos.y) / rowCount;
       float colWidth = (maxTreePos.x - minTreePos.x) / colCount;
 
-      // Divide tree spawn range into rows and columns
       for (int col = 0; col < colCount; col++)
       {
         for (int row = 0; row < rowCount; row++)
@@ -61,19 +60,30 @@ namespace OpenSkiFree
       }
 
       List<ObstacleCandidate> sortedTreeCandidates = treeCandidates.OrderBy(o => o.value).ToList();
+      List<GameObject> spawnedTrees = new List<GameObject>();
 
-      for (int x = 0; x < 4; x++)
+      for (int x = 0; x < 20; x++)
       {
-        Vector3 posWithOffset = new Vector3(
-          Random.Range(-colWidth / 2.5f, colWidth / 2.5f) + sortedTreeCandidates[x].pos.x,
-          Random.Range(-rowHeight / 2.5f, rowHeight / 2.5f) + sortedTreeCandidates[x].pos.y,
-          0f
-        );
         GameObject tree = Instantiate(TreePrefab, Vector3.zero, Quaternion.identity);
         tree.transform.SetParent(TreeContainer.transform);
-        tree.transform.localPosition = posWithOffset;
+        float offsetMagnitude = 1.35f;
+        float offsetX = Random.Range(-offsetMagnitude, offsetMagnitude);
+        float offsetY = Random.Range(-offsetMagnitude, offsetMagnitude);
+
+        float treeX = sortedTreeCandidates[x].pos.x + offsetX;
+        treeX = Mathf.Min(MaxTreeTransform.localPosition.x, treeX);
+        treeX = Mathf.Max(MinTreeTransform.localPosition.x, treeX);
+
+        float treeY = sortedTreeCandidates[x].pos.y + offsetY;
+        treeY = Mathf.Min(MaxTreeTransform.localPosition.y, treeY);
+        treeY = Mathf.Max(MinTreeTransform.localPosition.y, treeY);
+
+        tree.transform.localPosition = new Vector3(treeX, treeY, 0f);
+        spawnedTrees.Add(tree);
         treeColliders.Add(tree.GetComponent<PolygonCollider2D>());
       }
+
+      return spawnedTrees;
     }
 
     public void CheckForCollision()
@@ -82,7 +92,9 @@ namespace OpenSkiFree
       {
         if (collider.bounds.Intersects(PlayerAgentCollider.bounds))
         {
+          //print("didCollideWithObstacle");
           PlayerAgent.didCollideWithObstacle();
+          return;
         }
       }
     }

@@ -8,29 +8,40 @@ namespace OpenSkiFree
 
   public class PlayerAgent : Agent
   {
+    public GameObject SuccessMarkerPrefab;
+    public GameObject FailureMarkerPrefab;
     public AgentObstacles AgentObstacles;
     public Sprite PlayerFullSideways;
     public Sprite PlayerMostlySideways;
     public Sprite PlayerMostlyDown;
     public Sprite PlayerFullDown;
     public Sprite PlayerWipeOut;
+    public Transform PlayerStartMin;
+    public Transform PlayerStartMax;
 
     public SpriteRenderer PlayerSpriteRenderer;
+    public Transform Target;
+    public Transform LeftEdge;
+    public Transform RightEdge;
+    public Transform BottomEdge;
+
+    public Transform Reward1;
+    bool reward1Claimed = false;
+    public Transform Reward2;
+    bool reward2Claimed = false;
+    public Transform Reward3;
+    bool reward3Claimed = false;
 
     PlayerState currentState;
-
-    public Transform Target;
-    float lastDistance = 0f;
+    bool completed = false;
 
     float playerSpriteScale = 2f;
 
-    List<float> claimedRewards = new List<float>();
-    List<float> possibleRewards = new List<float>();
+    List<AgentLineRenderer> agentLines = new List<AgentLineRenderer>();
 
     public void didCollideWithObstacle()
     {
-      currentState = PlayerState.WipeOut;
-      PlayerSpriteRenderer.sprite = PlayerWipeOut;
+      handleFail("Crashed into obstacle");
     }
 
     private void updatePlayerSprite()
@@ -155,23 +166,44 @@ namespace OpenSkiFree
     }
     public override void OnEpisodeBegin()
     {
-      transform.localPosition = new Vector3(0f, 4.18f, 0f);
-      lastDistance = Vector3.Distance(transform.position, Target.position);
-      AgentObstacles.RandomizeTrees();
       cumulativeSpeed = 0f;
-
-      for (float x = 3.3f; x > Target.localPosition.y; x -= 1f)
+      completed = false;
+      AgentObstacles.SetupTrees();
+      randomizeStartPosition();
+      randomizeTarget();
+      agentLines.Clear();
+      for (int x = 1; x <= 8; x++)
       {
-        possibleRewards.Add(x);
+        agentLines.Add(transform.Find("RayTarget" + x).gameObject.GetComponent<AgentLineRenderer>());
       }
+      reward1Claimed = false;
+      reward2Claimed = false;
+      reward3Claimed = false;
+    }
+
+    private void randomizeStartPosition()
+    {
+      float spawnX = Random.Range(PlayerStartMin.transform.localPosition.x, PlayerStartMax.transform.localPosition.x);
+      float spawnY = PlayerStartMin.transform.localPosition.y;
+      transform.localPosition = new Vector3(spawnX, spawnY, 0f);
+    }
+
+    private void randomizeTarget()
+    {
+      float x = Random.Range(LeftEdge.localPosition.x + 1f, RightEdge.localPosition.x - 1f);
+      Target.localPosition = new Vector3(x, Target.localPosition.y, Target.localPosition.z);
     }
 
     public override void CollectObservations(VectorSensor sensor)
     {
-      sensor.AddObservation(Target.position);
-      sensor.AddObservation(transform.position);
-    }
+      sensor.AddObservation(Target.localPosition);
+      sensor.AddObservation(transform.localPosition);
 
+      foreach (AgentLineRenderer line in agentLines)
+      {
+        sensor.AddObservation(line.Distance);
+      }
+    }
     public override void OnActionReceived(float[] vectorAction)
     {
       var action = Mathf.RoundToInt(vectorAction[0]);
@@ -208,38 +240,96 @@ namespace OpenSkiFree
       updatePlayerSprite();
       movePlayer();
 
-      if (transform.localPosition.x < -5.6f || transform.localPosition.x > 5.6f || transform.localPosition.y < -20f)
+      if (transform.localPosition.x < LeftEdge.localPosition.x)
       {
-        EndEpisode();
+        handleFail("Off left edge");
       }
 
-      if (currentState == PlayerState.FullSidewaysLeft || currentState == PlayerState.FullSidewaysRight)
+      if (transform.localPosition.x > RightEdge.localPosition.x)
       {
-        SetReward(-0.00001f);
+        handleFail("Off right edge");
       }
 
-      foreach (float possibleReward in possibleRewards)
+      if (transform.localPosition.y < BottomEdge.localPosition.y)
       {
-        if (transform.localPosition.y < possibleReward && !claimedRewards.Contains(possibleReward))
-        {
-          claimedRewards.Add(possibleReward);
-          SetReward(0.25f);
-        }
+        handleFail("Off bottom edge");
       }
 
-      // Crashed
-      if (currentState == PlayerState.WipeOut)
+      if (!reward1Claimed && transform.localPosition.y < Reward1.localPosition.y)
       {
-        EndEpisode();
+        reward1Claimed = true;
+        SetReward(0.1f);
+        showSuccessAtCurrentPosition();
+      }
+
+      if (!reward2Claimed && transform.localPosition.y < Reward2.localPosition.y)
+      {
+        reward2Claimed = true;
+        SetReward(0.1f);
+        showSuccessAtCurrentPosition();
+      }
+
+      if (!reward3Claimed && transform.localPosition.y < Reward3.localPosition.y)
+      {
+        reward3Claimed = true;
+        SetReward(0.1f);
+        showSuccessAtCurrentPosition();
       }
 
       float dist = Vector3.Distance(transform.position, Target.position);
       // Reached goal
-      if (dist < 1f)
+      if (dist < 0.8f)
       {
-        SetReward(1.0f);
-        EndEpisode();
+        handleSuccess();
       }
+    }
+
+    void showSuccessAtCurrentPosition()
+    {
+      GameObject successMarker = Instantiate(SuccessMarkerPrefab);
+      successMarker.transform.position = transform.position;
+    }
+
+    void handleFail(string reason)
+    {
+      if (completed == true)
+      {
+        //print("Skip fail");
+        return;
+      }
+
+      print("end episode: " + reason);
+
+      if (reason == "Crashed into obstacle")
+      {
+        SetReward(-0.1f);
+      }
+
+      completed = true;
+      makeFailureMarkerAtCurrentPosition();
+      EndEpisode();
+    }
+
+    void handleSuccess()
+    {
+      if (completed == true)
+      {
+        //print("Skip successs");
+        return;
+      }
+
+      //print("Reached goal");
+      completed = true;
+      GameObject successMarker = Instantiate(SuccessMarkerPrefab);
+      successMarker.transform.position = Target.transform.position;
+      SetReward(1.0f);
+      EndEpisode();
+    }
+
+    void makeFailureMarkerAtCurrentPosition()
+    {
+      GameObject failureMarker = Instantiate(FailureMarkerPrefab);
+      failureMarker.transform.position = transform.position;
     }
 
     public override void Heuristic(float[] actionsOut)
@@ -266,8 +356,6 @@ namespace OpenSkiFree
           actionsOut[0] = mousePos.x > 0 ? 6 : 7;
           break;
       }
-
-      print("cumulative speed: " + cumulativeSpeed);
     }
   }
 }
